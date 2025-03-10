@@ -1,7 +1,7 @@
 # buffjump.nvim
 
 _*This is a fork of
-![bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim/tree/master), which I
+[bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim/tree/master), which I
 found had a few issues for me. I fancied a small rewrite._
 
 ## Problem
